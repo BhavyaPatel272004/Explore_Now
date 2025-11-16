@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="24dp"
+    android:background="@color/white"
+    >
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal">
+
+        <!-- Logo -->
+        <ImageView
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:src="@drawable/ic_launcher"
+            android:layout_marginBottom="16dp"
+            android:scaleType="centerInside" />
+
+        <!-- Title -->
+        <TextView
+            android:text="Create an account"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            android:textColor="#000000"
+            android:layout_marginBottom="8dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+        <!-- Subtitle -->
+        <TextView
+            android:text="Start exploring and utilizing all the resources that will help you elevate every design you make."
+            android:textSize="14sp"
+            android:textColor="#000000"
+            android:gravity="center"
+            android:layout_marginBottom="24dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+        <!-- Name -->
+        <EditText
+            android:id="@+id/etname"
+            android:hint="Your name"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/edittext_bg"
+            android:padding="12dp"
+            android:layout_marginBottom="12dp"/>
+
+        <!-- Email -->
+        <EditText
+            android:id="@+id/etemail"
+            android:hint="Your email"
+            android:inputType="textEmailAddress"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/edittext_bg"
+            android:padding="12dp"
+            android:layout_marginBottom="12dp"/>
+
+        <!-- Password -->
+        <EditText
+            android:id="@+id/etpassword"
+            android:hint="Create a password"
+            android:inputType="textPassword"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="@drawable/edittext_bg"
+            android:padding="12dp"
+            android:layout_marginBottom="16dp"/>
+
+        <!-- Create Account Button -->
+        <Button
+            android:id="@+id/btnCreate"
+            android:text="Create account"
+            android:textAllCaps="false"
+            android:textColor="#FFFFFF"
+            android:backgroundTint="#3CA942"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:layout_marginBottom="16dp"/>
+
+        <!-- OR Divider -->
+        <TextView
+            android:text="OR"
+            android:textSize="14sp"
+            android:textColor="#777777"
+            android:layout_marginBottom="16dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+        <!-- Social Buttons - Fixed LinearLayout -->
+        <LinearLayout
+            android:orientation="horizontal"
+            android:gravity="center"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageButton
+                android:id="@+id/google"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:src="@drawable/ic_google"
+                android:background="#FFFFFF"
+                android:layout_margin="8dp"
+                android:scaleType="centerInside"/>
+
+            <ImageButton
+                android:id="@+id/facebook"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:src="@drawable/ic_facebook"
+                android:background="#FDFDFD"
+                android:layout_margin="8dp"
+                android:scaleType="centerInside"/>
+
+            <ImageButton
+                android:id="@+id/instagram"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:src="@drawable/ic_instagram"
+                android:background="#FFFFFF"
+                android:layout_margin="8dp"
+                android:scaleType="centerInside"/>
+        </LinearLayout>
+
+        <!-- Login Text -->
+        <TextView
+            android:text="Already have an account? Log in"
+            android:textSize="14sp"
+            android:textColor="#FF0202"
+            android:layout_marginTop="24dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+
+    </LinearLayout>
+</ScrollView>

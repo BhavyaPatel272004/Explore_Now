@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Base application theme (all API levels) -->
+    <style name="Base.Theme.Assignment" parent="Theme.Material3.DayNight.NoActionBar">
+
+        <!-- Splash background color (works on all versions) -->
+        <item name="android:windowSplashScreenBackground">@color/white</item>
+
+        <!-- Splash icon -->
+        <item name="android:windowSplashScreenAnimatedIcon">@mipmap/ic_launcher</item>
+
+
+    </style>
+
+    <style name="Theme.Assignment" parent="Base.Theme.Assignment" />
+
+</resources>

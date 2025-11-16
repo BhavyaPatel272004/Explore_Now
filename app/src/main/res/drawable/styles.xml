@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <style android:name="CategoryItem">
+        <item android:name="android:orientation">horizontal</item>
+        <item android:name="android:padding">10dp</item>
+        <item android:name="android:background">?attr/selectableItemBackground</item>
+        <item android:name="android:gravity">center_vertical</item>
+    </style>
+
+
+</selector>
