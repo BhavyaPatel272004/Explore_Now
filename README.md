@@ -29,7 +29,6 @@ This project is perfect for learning Android UI, navigation, and layout design u
 
 ## 📸 App Screenshots
 
-> _Screens are already in the repo, bas README ke saath show ho jayenge._
 
 ### 🔹 Main Screens
 
