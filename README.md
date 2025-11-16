@@ -15,6 +15,18 @@ This project is perfect for learning Android UI, navigation, and layout design u
 
 ---
 
+## 🧠 Tech Stack
+
+| Category | Technology |
+|-----------|-------------|
+| **Language** | Kotlin |
+| **Architecture** | MVVM (Model–View–ViewModel) |
+| **Design System** | Material 3, Gradient Drawables, Custom Shapes |
+| **IDE** | Android Studio |
+| **Version Control** | Git + GitHub |
+
+---
+
 ## 📸 App Screenshots
 
 > _Screens are already in the repo, bas README ke saath show ho jayenge._
@@ -27,22 +39,10 @@ This project is perfect for learning Android UI, navigation, and layout design u
 
 ### 🔹 More UI Screens
 
-| Screen 5 | Screen 6 | Screen 7 | Screen 8 |
-|----------|----------|----------|----------|
-| ![Screenshot 5](Screenshot_5.png) | ![Screenshot 6](Screenshot_6.png) | ![Screenshot 7](Screenshot_7.png) | ![Screenshot 8](Screenshot_8.png) |
+| Screen 5 | Screen 6 | Screen 7 | Screen 8 | Screen 9 |
+|----------|----------|----------|----------|----------|
+| ![Screenshot 5](Screenshot_5.png) | ![Screenshot 6](Screenshot_6.png) | ![Screenshot 7](Screenshot_7.png) | ![Screenshot 8](Screenshot_8.png) | ![Screenshot 9](Screenshot_9.png) |
 
-### 🔹 Additional Screen
-
-![Screenshot 9](Screenshot_9.png)
-
----
-
-## 🛠 Tech Stack
-
-- **Language:** Kotlin  
-- **IDE:** Android Studio  
-- **Platform:** Native Android  
-- **Build System:** Gradle (Kotlin DSL – `build.gradle.kts`)  
 
 ---
 
