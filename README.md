@@ -3,59 +3,65 @@
 [![Made with Kotlin](https://img.shields.io/badge/Made%20with-Kotlin-7F52FF.svg?style=for-the-badge&logo=kotlin)](https://kotlinlang.org/)
 [![Android](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android)](https://developer.android.com/)
 [![Android Studio](https://img.shields.io/badge/IDE-Android%20Studio-1e88e5?style=for-the-badge&logo=androidstudio)](https://developer.android.com/studio)
-[![UI-XML](https://img.shields.io/badge/UI-XML%20Layouts-ff9800?style=for-the-badge)](#)
+[![UI-XML](https://img.shields.io/badge/UI-XML%20Layouts-FBC02D?style=for-the-badge)](#)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
 
 ---
 
-**Explore Now** is a travel-themed Android app built with **Kotlin**.  
-App ka focus hai beautiful destinations ko clean, modern UI ke saath show karna — so that users can explore places, see details, and get inspired to travel ✈️🌴
+**Explore Now** is a beautifully designed **Android travel UI app** built using **Kotlin** and **XML layouts**.  
+This app showcases stunning destination screens with clean UI and smooth navigation, designed to inspire traveling and exploring new places ✈️🌴
 
 ---
 
 ## 🚀 Features
 
-✅ **Modern Travel UI** – Eye-catching screens for exploring destinations  
-🗺️ **Destination Browsing** – Multiple screens to view different places  
-🧭 **Detail Views** – Place details with images & info  
-🎨 **Neat Layouts** – Proper spacing, cards and images for a premium feel  
-📱 **Responsive Design** – Works smoothly on different screen sizes  
-⚡ **Native Android App** – Built using Kotlin and Android Studio  
+- ✨ **Modern Travel UI Interface**
+- 📸 **High-quality destination visuals**
+- 🧭 **Multiple screens and smooth navigation**
+- 📱 **Fully responsive mobile layouts**
+- 💎 **Neat card designs & spacing**
+- ⚡ **Fast and optimized performance**
 
 ---
 
 ## 🧠 Tech Stack
 
-| Category           | Technology                    |
-|--------------------|-------------------------------|
-| **Language**       | Kotlin                        |
-| **UI**             | XML Layouts, Views            |
-| **Architecture**   | Activity / Fragment Based UI  |
-| **Build System**   | Gradle (Kotlin DSL)           |
-| **IDE**            | Android Studio                |
-| **Version Control**| Git + GitHub                  |
+| Category | Technology |
+|---------|-----------|
+| **Language** | Kotlin |
+| **UI** | XML Layouts, Material Components |
+| **Navigation** | Activity Based UI |
+| **IDE** | Android Studio |
+| **Build Tool** | Gradle (Kotlin DSL) |
+| **Version Control** | Git & GitHub |
 
 ---
 
-## 🖼️ Screenshots
+## 🖼️ Screenshots (Standard Size, Grid Layout)
 
-| Home / Intro Screen | Explore Destinations | Place Details |
-|:-------------------:|:--------------------:|:-------------:|
-| ![Screen 1](Screenshot_1.png) | ![Screen 2](Screenshot_2.png) | ![Screen 3](Screenshot_3.png) |
+<p align="center">
+  <img src="Screenshot_1.png" width="250" />
+  <img src="Screenshot_2.png" width="250" />
+  <img src="Screenshot_3.png" width="250" />
+</p>
 
-| Discover More | Destination Preview | Explore List |
-|:-------------:|:-------------------:|:------------:|
-| ![Screen 4](Screenshot_4.png) | ![Screen 5](Screenshot_5.png) | ![Screen 6](Screenshot_6.png) |
+<p align="center">
+  <img src="Screenshot_4.png" width="250" />
+  <img src="Screenshot_5.png" width="250" />
+  <img src="Screenshot_6.png" width="250" />
+</p>
 
-| Suggestions | Extra UI Screen | Final View |
-|:-----------:|:---------------:|:----------:|
-| ![Screen 7](Screenshot_7.png) | ![Screen 8](Screenshot_8.png) | ![Screen 9](Screenshot_9.png) |
+<p align="center">
+  <img src="Screenshot_7.png" width="250" />
+  <img src="Screenshot_8.png" width="250" />
+  <img src="Screenshot_9.png" width="250" />
+</p>
 
 ---
 
 ## 🏁 Getting Started
 
-1. **Clone the repository**
-
-   ```bash
-   git clone https://github.com/BhavyaPatel272004/Explore_Now.git
-   cd Explore_Now
+### Clone the repository
+```bash
+git clone https://github.com/BhavyaPatel272004/Explore_Now.git
+cd Explore_Now
