@@ -1,71 +1,61 @@
-# 🌍 Explore Now – Android Travel UI App
+# 🌍 Explore Now — Discover Beautiful Places
 
-Explore Now is a modern Android app built with **Kotlin** that lets users explore beautiful travel destinations with a clean and attractive UI.  
-This project is perfect for learning Android UI, navigation, and layout design using **Android Studio**.
-
----
-
-## ✨ Highlights
-
-- 🎨 Clean and modern UI for travel/explore theme  
-- 📱 Fully native **Android** project (Kotlin)  
-- 🧭 Multiple screens to browse and view content  
-- 🧩 Reusable components and layouts  
-- 📷 Included screenshots for quick preview  
+[![Made with Kotlin](https://img.shields.io/badge/Made%20with-Kotlin-7F52FF.svg?style=for-the-badge&logo=kotlin)](https://kotlinlang.org/)
+[![Android](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android)](https://developer.android.com/)
+[![Android Studio](https://img.shields.io/badge/IDE-Android%20Studio-1e88e5?style=for-the-badge&logo=androidstudio)](https://developer.android.com/studio)
+[![UI-XML](https://img.shields.io/badge/UI-XML%20Layouts-ff9800?style=for-the-badge)](#)
 
 ---
 
-## 📸 App Screenshots
-
-> _Screens are already in the repo, bas README ke saath show ho jayenge._
-
-### 🔹 Main Screens
-
-| Home / Intro | Explore Screen | Details Screen | Extra Screen |
-|-------------|----------------|----------------|-------------|
-| ![Screenshot 1](Screenshot_1.png) | ![Screenshot 2](Screenshot_2.png) | ![Screenshot 3](Screenshot_3.png) | ![Screenshot 4](Screenshot_4.png) |
-
-### 🔹 More UI Screens
-
-| Screen 5 | Screen 6 | Screen 7 | Screen 8 |
-|----------|----------|----------|----------|
-| ![Screenshot 5](Screenshot_5.png) | ![Screenshot 6](Screenshot_6.png) | ![Screenshot 7](Screenshot_7.png) | ![Screenshot 8](Screenshot_8.png) |
-
-### 🔹 Additional Screen
-
-![Screenshot 9](Screenshot_9.png)
+**Explore Now** is a travel-themed Android app built with **Kotlin**.  
+App ka focus hai beautiful destinations ko clean, modern UI ke saath show karna — so that users can explore places, see details, and get inspired to travel ✈️🌴
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 Features
 
-- **Language:** Kotlin  
-- **IDE:** Android Studio  
-- **Platform:** Native Android  
-- **Build System:** Gradle (Kotlin DSL – `build.gradle.kts`)  
+✅ **Modern Travel UI** – Eye-catching screens for exploring destinations  
+🗺️ **Destination Browsing** – Multiple screens to view different places  
+🧭 **Detail Views** – Place details with images & info  
+🎨 **Neat Layouts** – Proper spacing, cards and images for a premium feel  
+📱 **Responsive Design** – Works smoothly on different screen sizes  
+⚡ **Native Android App** – Built using Kotlin and Android Studio  
 
 ---
 
-## 📂 Project Structure
+## 🧠 Tech Stack
 
-```text
-Explore_Now/
-├── app/                # Main Android app module
-│   ├── src/
-│   │   ├── main/
-│   │   │   ├── java/   # Kotlin source code (activities, adapters, etc.)
-│   │   │   ├── res/    # Layout XMLs, drawables, colors, themes
-│   │   │   └── AndroidManifest.xml
-│   └── build.gradle.kts
-├── gradle/             # Gradle wrapper
-├── gradle.properties
-├── settings.gradle.kts
-├── Screenshot_1.png
-├── Screenshot_2.png
-├── Screenshot_3.png
-├── Screenshot_4.png
-├── Screenshot_5.png
-├── Screenshot_6.png
-├── Screenshot_7.png
-├── Screenshot_8.png
-└── Screenshot_9.png
+| Category           | Technology                    |
+|--------------------|-------------------------------|
+| **Language**       | Kotlin                        |
+| **UI**             | XML Layouts, Views            |
+| **Architecture**   | Activity / Fragment Based UI  |
+| **Build System**   | Gradle (Kotlin DSL)           |
+| **IDE**            | Android Studio                |
+| **Version Control**| Git + GitHub                  |
+
+---
+
+## 🖼️ Screenshots
+
+| Home / Intro Screen | Explore Destinations | Place Details |
+|:-------------------:|:--------------------:|:-------------:|
+| ![Screen 1](Screenshot_1.png) | ![Screen 2](Screenshot_2.png) | ![Screen 3](Screenshot_3.png) |
+
+| Discover More | Destination Preview | Explore List |
+|:-------------:|:-------------------:|:------------:|
+| ![Screen 4](Screenshot_4.png) | ![Screen 5](Screenshot_5.png) | ![Screen 6](Screenshot_6.png) |
+
+| Suggestions | Extra UI Screen | Final View |
+|:-----------:|:---------------:|:----------:|
+| ![Screen 7](Screenshot_7.png) | ![Screen 8](Screenshot_8.png) | ![Screen 9](Screenshot_9.png) |
+
+---
+
+## 🏁 Getting Started
+
+1. **Clone the repository**
+
+   ```bash
+   git clone https://github.com/BhavyaPatel272004/Explore_Now.git
+   cd Explore_Now
