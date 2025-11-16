@@ -1,5 +1,12 @@
 # 🌍 Explore Now – Android Travel UI App
 
+[![Made with Kotlin](https://img.shields.io/badge/Made%20with-Kotlin-7F52FF.svg?style=for-the-badge&logo=kotlin)](https://kotlinlang.org/)
+[![Jetpack Compose](https://img.shields.io/badge/UI-Jetpack%20Compose-4285F4?style=for-the-badge&logo=android)](https://developer.android.com/jetpack/compose)
+[![Android Studio](https://img.shields.io/badge/IDE-Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio)](https://developer.android.com/studio)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
+
+---
+
 Explore Now is a modern Android app built with **Kotlin** that lets users explore beautiful travel destinations with a clean and attractive UI.  
 This project is perfect for learning Android UI, navigation, and layout design using **Android Studio**.
 
