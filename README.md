@@ -1,67 +1,52 @@
-# 🌍 Explore Now — Discover Beautiful Places
+# 🌍 Explore Now – Android Travel UI App
 
-[![Made with Kotlin](https://img.shields.io/badge/Made%20with-Kotlin-7F52FF.svg?style=for-the-badge&logo=kotlin)](https://kotlinlang.org/)
-[![Android](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android)](https://developer.android.com/)
-[![Android Studio](https://img.shields.io/badge/IDE-Android%20Studio-1e88e5?style=for-the-badge&logo=androidstudio)](https://developer.android.com/studio)
-[![UI-XML](https://img.shields.io/badge/UI-XML%20Layouts-FBC02D?style=for-the-badge)](#)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
+Explore Now is a modern Android app built with **Kotlin** that lets users explore beautiful travel destinations with a clean and attractive UI.  
+This project is perfect for learning Android UI, navigation, and layout design using **Android Studio**.
 
 ---
 
-**Explore Now** is a beautifully designed **Android travel UI app** built using **Kotlin** and **XML layouts**.  
-This app showcases stunning destination screens with clean UI and smooth navigation, designed to inspire traveling and exploring new places ✈️🌴
+## ✨ Highlights
+
+- 🎨 Clean and modern UI for travel/explore theme  
+- 📱 Fully native **Android** project (Kotlin)  
+- 🧭 Multiple screens to browse and view content  
+- 🧩 Reusable components and layouts  
+- 📷 Included screenshots for quick preview  
 
 ---
 
-## 🚀 Features
+## 📸 App Screenshots
 
-- ✨ **Modern Travel UI Interface**
-- 📸 **High-quality destination visuals**
-- 🧭 **Multiple screens and smooth navigation**
-- 📱 **Fully responsive mobile layouts**
-- 💎 **Neat card designs & spacing**
-- ⚡ **Fast and optimized performance**
+> _Screens are already in the repo, bas README ke saath show ho jayenge._
 
----
+### 🔹 Main Screens
 
-## 🧠 Tech Stack
+| Home / Intro | Explore Screen | Details Screen | Extra Screen |
+|-------------|----------------|----------------|-------------|
+| ![Screenshot 1](Screenshot_1.png) | ![Screenshot 2](Screenshot_2.png) | ![Screenshot 3](Screenshot_3.png) | ![Screenshot 4](Screenshot_4.png) |
 
-| Category | Technology |
-|---------|-----------|
-| **Language** | Kotlin |
-| **UI** | XML Layouts, Material Components |
-| **Navigation** | Activity Based UI |
-| **IDE** | Android Studio |
-| **Build Tool** | Gradle (Kotlin DSL) |
-| **Version Control** | Git & GitHub |
+### 🔹 More UI Screens
+
+| Screen 5 | Screen 6 | Screen 7 | Screen 8 |
+|----------|----------|----------|----------|
+| ![Screenshot 5](Screenshot_5.png) | ![Screenshot 6](Screenshot_6.png) | ![Screenshot 7](Screenshot_7.png) | ![Screenshot 8](Screenshot_8.png) |
+
+### 🔹 Additional Screen
+
+![Screenshot 9](Screenshot_9.png)
 
 ---
 
-## 🖼️ Screenshots (Standard Size, Grid Layout)
+## 🛠 Tech Stack
 
-<p align="center">
-  <img src="Screenshot_1.png" width="250" />
-  <img src="Screenshot_2.png" width="250" />
-  <img src="Screenshot_3.png" width="250" />
-</p>
-
-<p align="center">
-  <img src="Screenshot_4.png" width="250" />
-  <img src="Screenshot_5.png" width="250" />
-  <img src="Screenshot_6.png" width="250" />
-</p>
-
-<p align="center">
-  <img src="Screenshot_7.png" width="250" />
-  <img src="Screenshot_8.png" width="250" />
-  <img src="Screenshot_9.png" width="250" />
-</p>
+- **Language:** Kotlin  
+- **IDE:** Android Studio  
+- **Platform:** Native Android  
+- **Build System:** Gradle (Kotlin DSL – `build.gradle.kts`)  
 
 ---
 
-## 🏁 Getting Started
 
-### Clone the repository
-```bash
-git clone https://github.com/BhavyaPatel272004/Explore_Now.git
-cd Explore_Now
+
+## 👨‍💻 Author
+Developed with ❤️ by [Bhavya Patel]
